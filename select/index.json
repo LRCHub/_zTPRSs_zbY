@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BURN:BORN",
+  "base_artist": "GKSS",
+  "createdAt": "2026-03-23T04:29:00.422460Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BURN:BORN",
+      "artist": "GKSS",
+      "has_synced": false,
+      "path": "select/pl_01_BURN_BORN_GKSS.txt"
+    }
+  ]
+}
